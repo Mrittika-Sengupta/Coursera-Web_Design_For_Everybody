@@ -1,0 +1,38 @@
+h1{
+    background: #a68383;
+    font-size: 250% ;
+}
+header{
+    background: #b8acaa;
+    text-align: center;
+    
+}
+h1{
+    color: rgb(58, 9, 9);
+
+}
+h2{
+    color: blue;
+    background: #fecdcd;
+}
+nav{
+	font-variant: small-caps;
+	font-family: Arial, Helvetica, sans-serif ;
+	font-size: 250%;
+}
+summary{
+    background: #ee8989;
+    font-variant: small-caps;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+p{
+  
+    font-variant: small-caps;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer{
+    background: #9b9898; 
+    font-size: 250%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
